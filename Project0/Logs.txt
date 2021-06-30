@@ -1,0 +1,13 @@
+2021-06-27 14:48:43 INFO  Menu:75 - User attempting to add a new employee to the database.
+2021-06-27 14:52:17 WARN  Menu:75 - User attempting to add a new employee to the database.
+2021-06-27 14:52:31 WARN  Menu:95 - User attempting to update an employee's position in the database.
+2021-06-27 14:52:45 WARN  Menu:118 - User attempting to fire an employee and remove them from the database.
+2021-06-27 15:09:32 WARN  Menu:88 - User attempting to add a new employee to the database.
+2021-06-27 15:09:51 WARN  Menu:108 - User attempting to update an employee's position in the database.
+2021-06-27 15:11:28 WARN  Menu:131 - User attempting to fire an employee and remove them from the database.
+2021-06-29 21:29:43 WARN  Menu:88 - User attempting to add a new employee to the database.
+2021-06-29 21:30:32 WARN  Menu:108 - User attempting to update an employee's position in the database.
+2021-06-29 21:30:49 WARN  Menu:131 - User attempting to fire an employee and remove them from the database.
+2021-06-29 21:30:58 WARN  Menu:88 - User attempting to add a new employee to the database.
+2021-06-29 21:31:07 WARN  Menu:108 - User attempting to update an employee's position in the database.
+2021-06-29 21:31:21 WARN  Menu:131 - User attempting to fire an employee and remove them from the database.
